@@ -18,6 +18,7 @@ Empower remote and decentralized teams to manage productivity without reliance o
 - 🔄 Comment and update threads on tasks.
 - 📈 Integration with on-chain analytics for team performance metrics.
 
-# stellar contract 
+## stellar contract Details 
 CCKAX53AXKBLEFIKEUHWCUE372N4AZIIZ4STDRV7J4IU6EQNCAOEVSP6
+![image](https://github.com/user-attachments/assets/0fb60f08-6822-4a33-9491-08a65a220d07)
 
