@@ -17,3 +17,7 @@ Empower remote and decentralized teams to manage productivity without reliance o
 - 📅 Task deadlines and priority management.
 - 🔄 Comment and update threads on tasks.
 - 📈 Integration with on-chain analytics for team performance metrics.
+
+# stellar contract 
+CCKAX53AXKBLEFIKEUHWCUE372N4AZIIZ4STDRV7J4IU6EQNCAOEVSP6
+
